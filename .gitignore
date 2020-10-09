@@ -1,0 +1,4 @@
+*~
+.build/
+Device-Chip-MAX31855-*/
+Device-Chip-MAX31855-*.tar.gz
